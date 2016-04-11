@@ -1,2 +1,0 @@
-# devops-
-SQL Coding  developer 
